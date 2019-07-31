@@ -1,0 +1,39 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+   background: rgba(184, 180, 180, 0.64);
+    
+}
+
+nav {
+    background: rgb(41, 58, 86);
+    padding: 20px;
+    text-align: center;
+}
+
+.nav-link {
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 10px;
+    color: white;
+}
+
+.image-class {
+    height: 250px;
+    width: 400px;
+    
+    //box-shadow:rgb(9, 7, 7)10px 10px inset;
+}
+
+td {
+    padding: 10px;
+}
+
+.caption {
+    background: white;
+    margin-top:0px;
+    padding: 20px;
+    text-align: center;
+    font-family: Century;
+    font-size: 20px;
+}
